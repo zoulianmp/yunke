@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Logs/Cloudshell Log/Log2.gif</file>
+        <file>../Logs/Cloudshell Log/log5.gif</file>
+        <file>../Logs/Cloudshell Log/Log7.gif</file>
+        <file>../Logs/Cloudshell Log/log21.png</file>
+        <file>../Logs/Cloudshell Log/Log555.png</file>
+        <file>C:/Users/Administrator/Desktop/damotouicon.ico</file>
+        <file>C:/Users/Administrator/Desktop/damotouicon16.ico</file>
+        <file>C:/Users/Administrator/Desktop/damotouicon32.ico</file>
+    </qresource>
+</RCC>
